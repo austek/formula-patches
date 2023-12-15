@@ -1,2 +1,2 @@
-# formula-patches
-🏥 Patches for Homebrew formulae
+# Homebrew Patches
+Patches used by some Homebrew formulae.
